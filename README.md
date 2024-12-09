@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm satheesh kumar</h1>
 <h3 align="center">A passionate Frontend Developer and Quality Assurance Specialist.</h3>
 
-- 🔭 I’m currently working on [HEB(Hindu Endowments Board](https://uat.dqlyahhbo509c.amplifyapp.com/)
-
+- 🔭 I’m currently working as a Quality Assurance Specialist and Frontend Developer at HEB (Hindu Endowments Board): [View Project](https://uat.dqlyahhbo509c.amplifyapp.com/)
+  
 - 🌱 I’m currently learning **React.js, Node.js, Mobile App Development**
 
 - 👨‍💻 All of my projects are available at [https://satheeesh3.github.io/portofolio11/](https://satheeesh3.github.io/portofolio11/)
 
 - 📫 How to reach me **satheeshkumarengg333@gmail.com**
+
+- Linked Profile ([https://www.linkedin.com/in/satheeshkumarengg33](https://www.linkedin.com/in/satheeshkumarengg33/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
